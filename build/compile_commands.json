@@ -1,0 +1,31 @@
+[
+{
+  "directory": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\大作业\\2017153040_吴嘉鸿_源码\\2017153040_吴嘉鸿_源代码\\InitShader.cpp",
+  "file": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/InitShader.cpp"
+},
+
+{
+  "directory": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\大作业\\2017153040_吴嘉鸿_源码\\2017153040_吴嘉鸿_源代码\\Mesh_Painter.cpp",
+  "file": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/Mesh_Painter.cpp"
+},
+
+{
+  "directory": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Snow_boy.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\大作业\\2017153040_吴嘉鸿_源码\\2017153040_吴嘉鸿_源代码\\Snow_boy.cpp",
+  "file": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/Snow_boy.cpp"
+},
+
+{
+  "directory": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\大作业\\2017153040_吴嘉鸿_源码\\2017153040_吴嘉鸿_源代码\\main.cpp",
+  "file": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/main.cpp"
+},
+
+{
+  "directory": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1423~1.281\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IC:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\图形\\大作业\\2017153040_吴嘉鸿_源码\\2017153040_吴嘉鸿_源代码\\mesh.cpp",
+  "file": "F:/图形/大作业/2017153040_吴嘉鸿_源码/2017153040_吴嘉鸿_源代码/mesh.cpp"
+}
+]
