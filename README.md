@@ -1,0 +1,2 @@
+# OpenGL_GameDemo
+使用OpenGL制作的一个游戏小Demo
