@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: img
+---
+
 # OpenGL_GameDemo
 使用OpenGL制作的一个游戏小Demo
 
@@ -18,13 +22,13 @@
 
 使用天空盒样例：
 
-![image-20200704003224847](https://i.loli.net/2020/07/04/gQ3wb4qhnUSBj8x.png)
+![image-20200704003224847](img/gQ3wb4qhnUSBj8x.png)
 
 
 
 场景贴图效果：
 
-![img](https://i.loli.net/2020/07/04/rjWlcmt9w7zoL63.jpg)
+![img](img/rjWlcmt9w7zoL63.jpg)
 
 
 
@@ -34,29 +38,29 @@
 
 机器人的层级模型
 
-![image-20200704003451454](https://i.loli.net/2020/07/04/VF6EWGn52ro1Mbs.png)
+![image-20200704003451454](img/VF6EWGn52ro1Mbs.png)
 
 初步实现：
 
-![img](https://i.loli.net/2020/07/04/dURBXDck6yJZ2Sq.jpg)
+![img](img/dURBXDck6yJZ2Sq.jpg)
 
 
 
 附上颜色：
 
-![img](https://i.loli.net/2020/07/04/lK4C5wmpsuG63zE.jpg)
+![img](img/lK4C5wmpsuG63zE.jpg)
 
 
 
 添加材质光照：
 
-![img](https://i.loli.net/2020/07/04/LJnZ3DhMBv29qW4.jpg)
+![img](img/LJnZ3DhMBv29qW4.jpg)
 
 
 
 添加键盘鼠标操作移动事件：
 
-![img](https://i.loli.net/2020/07/04/3GqBdvlZt45Xpkj.jpg)
+![img](img/3GqBdvlZt45Xpkj.jpg)
 
 
 
@@ -66,13 +70,13 @@
 
 ‘w’：视角向上                ‘s‘：视角向下
 
-![img](https://i.loli.net/2020/07/04/OsYjBKq78UvE9Hw.jpg) ![img](https://i.loli.net/2020/07/04/OCDTVWecN3t5o2j.jpg)
+![img](img/OsYjBKq78UvE9Hw.jpg) ![img](https://i.loli.net/2020/07/04/OCDTVWecN3t5o2j.jpg)
 
  
 
 ‘a’：镜头左转                ‘d’: 镜头右转
 
-![img](https://i.loli.net/2020/07/04/eYF3cXUdBHNhEla.jpg) ![img](https://i.loli.net/2020/07/04/nqFrfeAs7a3C4QV.jpg)
+![img](img/eYF3cXUdBHNhEla.jpg) ![img](img/nqFrfeAs7a3C4QV.jpg)
 
 其他按键:
 
@@ -84,13 +88,13 @@
 
 ​    GLUT_UP_KEY机器人前进         GLUT_DOWN_KEY机器人后退
 
-![img](https://i.loli.net/2020/07/04/B2pvjktVASf7rI6.jpg)     ![img](https://i.loli.net/2020/07/04/iuXZcqx9NrF5BIe.jpg)
+![img](img/B2pvjktVASf7rI6.jpg)     ![img](img/iuXZcqx9NrF5BIe.jpg)
 
  
 
 GLUT_LEFT_KEY机器人左转        GLUT_RIGHT_KEY机器人右转
 
- ![img](https://i.loli.net/2020/07/04/KELhbF8R3JDitIV.jpg)     ![img](https://i.loli.net/2020/07/04/wvd5JGZj61unyQl.jpg)
+ ![img](img/KELhbF8R3JDitIV.jpg)     ![img](img/wvd5JGZj61unyQl.jpg)
 
 其他按键 : ‘Y’:开启跟随模式;’I’:进入上帝视角；‘u’机器人跳舞，‘*’相机到天空盒外部
 
@@ -100,19 +104,19 @@ GLUT_LEFT_KEY机器人左转        GLUT_RIGHT_KEY机器人右转
 
 ‘f’:换脸
 
-![img](https://i.loli.net/2020/07/04/lQrpLj6FAkOX58W.jpg) ![img](https://i.loli.net/2020/07/04/neplOv3wFbNWKmr.jpg) ![img](https://i.loli.net/2020/07/04/HoBgPA8k5umeC1w.jpg)
+![img](img/lQrpLj6FAkOX58W.jpg) ![img](img/neplOv3wFbNWKmr.jpg) ![img](img/HoBgPA8k5umeC1w.jpg)
 
  
 
 ‘F’:换肤
 
-![img](https://i.loli.net/2020/07/04/No5dmhQVGHw93t4.jpg) ![img](https://i.loli.net/2020/07/04/jA6T9qCg2bFmBHc.jpg) ![img](https://i.loli.net/2020/07/04/3zBxAKf4SXmIGb8.jpg)
+![img](img/No5dmhQVGHw93t4.jpg) ![img](img/jA6T9qCg2bFmBHc.jpg) ![img](img/3zBxAKf4SXmIGb8.jpg)
 
  
 
 按下’t’进行场景的切换场景切换
 
-![img](https://i.loli.net/2020/07/04/MzG7D8RYCP6HsXi.jpg) ![img](https://i.loli.net/2020/07/04/HrIqQlGwNgkaheb.jpg)
+![img](img/MzG7D8RYCP6HsXi.jpg) ![img](img/HrIqQlGwNgkaheb.jpg)
 
 
 
@@ -120,7 +124,7 @@ GLUT_LEFT_KEY机器人左转        GLUT_RIGHT_KEY机器人右转
 
 ### 导入雪人
 
-![img](https://i.loli.net/2020/07/04/F8iaNSpGtX9bmrk.jpg) ![img](https://i.loli.net/2020/07/04/YRhNGUBXecj6C2K.jpg)
+![img](img/F8iaNSpGtX9bmrk.jpg) ![img](img/YRhNGUBXecj6C2K.jpg)
 
 
 
@@ -128,6 +132,10 @@ GLUT_LEFT_KEY机器人左转        GLUT_RIGHT_KEY机器人右转
 
 #### 一览：
 
-![img](https://i.loli.net/2020/07/04/VuriLGDFv3ICtzx.jpg)![img](https://i.loli.net/2020/07/04/YRhNGUBXecj6C2K.jpg)![img](C:/Users/Victor/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg) ![img](C:/Users/Victor/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+![img](img/VuriLGDFv3ICtzx.jpg)![img](img/NqRZO1WBw4n8z9K.jpg)
+
+
+
+![img](img/clip_image002.jpg) ![img](file:///C:/Users/Victor/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
 
  
