@@ -136,6 +136,6 @@ GLUT_LEFT_KEY机器人左转        GLUT_RIGHT_KEY机器人右转
 
 
 
-![img](img/clip_image002.jpg) ![img](file:///C:/Users/Victor/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](img/clip_image002.jpg) ![img](img/clip_image004-1593796306085.jpg)
 
  
